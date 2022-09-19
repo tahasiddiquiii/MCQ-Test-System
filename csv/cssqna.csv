@@ -1,0 +1,10 @@
+﻿1) CSS stands for -,a. Cascade style sheets,b. Color and style sheets,c. Cascading style sheets,d. None of the above,3,(c) Cascading style sheets
+2) The property in CSS used to change the background color of an element is -,a. bgcolor,b. color,c. background-color,d. All of the above,3,(c) background-color
+3) The CSS property used to control the element's font-size is -,a. text-style,b. text-size,c. font-size,d. None of the above,3,(c) font-size
+4) The HTML attribute used to define the inline styles is -,a. style,b. styles,c. class,d. None of the above,1,(a) style
+5) The HTML attribute used to define the internal stylesheet is -,a. <style>,b. style,c. <link>,d. <script>,1,(a) <style>
+6) The CSS property used to make the text bold is -,a. font-weight : bold,b. weight: bold,c. font: bold,d. style: bold,1,(a) font-weight : bold
+7) Are the negative values allowed in padding property?,a. Yes,b. No,c. Can't say,d. May be,2,(b) No
+8) The CSS property used to specify the transparency of an element is -,a. opacity,b. filter,c. visibility,d. overlay,1,(a) opacity
+9) The CSS property used to draw a line around the elements outside the border?,a. border,b. outline,c. padding,d. line,2,(b) outline
+10) The property in CSS used to change the text color of an element is -,a. bgcolor,b. color,c. background-color,d. All of the above,2,(b) color

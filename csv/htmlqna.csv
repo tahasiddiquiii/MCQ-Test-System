@@ -1,0 +1,10 @@
+﻿1) HTML stands for -,a. HighText Machine Language,b. HyperText and links Markup Language,c. HyperText Markup Language,d. None of these,3,(c) HyperText Markup Language
+2) The correct sequence of HTML tags for starting a webpage is -,a. Head- Title- HTML- body,b. HTML- Body- Title- Head,c. HTML- Head- Title- Body,d. HTML- Head- Title-Body,4,(d) HTML- Head- Title- Body
+3) Which of the following element is responsible for making the text bold in HTML?,a. <pre>,b. <a>,c. <b>,d. <br>,3,(c) <b>
+4) Which of the following tag is used to insert a line-break in HTML?,a. <br>,b. <a>,c. <pre>,d. <b>,1,(a) <br>
+5) How to create an unordered list (a list with the list items in bullets) in HTML?,a. <ul>,b. <ol>,c. <li>,d. <i>,1, (a) <ul>
+6) Which character is used to represent the closing of a tag in HTML?,a. \,b. !,c. /,d. .,3,(c) /
+7) How to create an ordered list (a list with the list items in numbers) in HTML?,a. <ul>,b. <ol>,c. <li>,d. <i>,2,(b) <ol>
+8) Which of the following element is responsible for making the text italic in HTML?,a. <i>,b. <italic>,c. <it>,d. <pre>,1,(a) <i>
+9) Which of the following tag is used to make the underlined text?,a. <i>,b. <ul>,c. <u>,d. <pre>,3,(c) <u>
+10) The <hr> tag in HTML is used for -,a. new line,b. vertical ruler,c. new paragraph,d. horizontal ruler,4,(d) horizontal ruler

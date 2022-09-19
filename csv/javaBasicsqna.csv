@@ -1,0 +1,10 @@
+﻿1) Which of the following option leads to the portability and security of Java?,a. Bytecode is executed by JVM,b. The applet makes the Java code secure and portable,c. Use of exception handling,d. Dynamic binding between objects,1,(a) Bytecode is executed by the JVM.
+2) Which of the following is not a Java features?,a. Dynamic,b. Architecture Neutral,c. Use of pointers,d. Object-oriented,3,(c) Use of pointers
+3) The \u0021 article referred to as a,a. Unicode escape sequence,b. Octal escape,c. Hexadecimal,d. Line feed,1,(a) Unicode escape sequence
+4) _____ is used to find and fix bugs in the Java programs.,a. JVM,b. JRE,c. JDK,d. JDB,3,(d) JDB
+5) What is the return type of the hashCode() method in the Object class?,a. Object,b. int,c. long,d. void,2,(b) int
+6) Which of the following is a valid long literal?,a. ABH8097,b. L990023,c. 904423,d. 0xnf029L,4,(d) 0xnf029L
+7) What does the expression float a = 35 / 0 return?,a. 0,b. Not a Number,c. Infinity,d. Run time exception,3,(c) Infinity
+8) In which process a local variable has the same name as one of the instance variables?,a. Serialization,b. Variable Shadowing,c. Abstraction,d. Multi-threading,2,(b) Variable Shadowing
+9) Which of the following is true about the anonymous inner class?,a. It has only methods,b. Objects can't be created,c. It has a fixed class name,d. It has no class name,4,(d) It has no class name
+10) Which package contains the Random class?,a. java.util package,b. java.lang package,c. java.awt package,d. java.io package,1,(a) java.util package
